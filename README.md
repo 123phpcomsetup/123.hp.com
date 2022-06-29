@@ -1,6 +1,5 @@
 # 123.hp.com/setup Print, Scan Fax - 123.hp.com  
 # 123.hp.com/setup method - Check printer settings
-(https://repository-images.githubusercontent.com/508637315/0e99049e-b1b8-4c41-8362-5ad4f46b11d2)
 Printer settings are necessary to check the network status. So, to complete work quickly. Working with a good connection is super fast and unstoppable. Page will become unstable With poor network connection. 
 # Make sure your printer and apple device connected to the same wifi
 1. Make sure the wifi connection your Apple device is connected to. Having a checkmark at the end. If not, then first register your network name (wifi name). 
